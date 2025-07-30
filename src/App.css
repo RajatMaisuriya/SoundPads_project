@@ -42,7 +42,9 @@
 }
 
 .padDesign{
-    height: 400px;
-    width: 400px;
-    color: #888;
+    height: 300px;
+    width: 300px;
+    margin: 10px;
+    background-color: #b0a4a4;
+    border-color: aliceblue;
 }
